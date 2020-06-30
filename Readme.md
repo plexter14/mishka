@@ -1,6 +1,7 @@
 # Личный проект «Мишка» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 - Помошник: [plexter14](https://github.com/plexter14/mishka).
+- Главный разработчик: [BlackLacost](https://github.com/BlackLacost/mishka).
 
 ---
 
