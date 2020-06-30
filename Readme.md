@@ -1,7 +1,6 @@
 # Личный проект «Мишка» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
-* Студент: [Елена Орлова](https://up.htmlacademy.ru/adaptive/19/user/683179).
-* Наставник: `Неизвестно`.
+- Помошник: [plexter14](https://github.com/plexter14/mishka).
 
 ---
 
