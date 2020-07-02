@@ -1,3 +1,17 @@
-body {
-  background: red;
-}
+@import "utility/config.scss";
+
+// blocks
+@import "blocks/about-us/about-us.scss";
+@import "blocks/best-product/best-product.scss";
+@import "blocks/button/button.scss";
+@import "blocks/contact/contact.scss";
+@import "blocks/footer-copyright/footer-copyright.scss";
+@import "blocks/impressions/impressions.scss";
+@import "blocks/impressions-slider/impressions-slider.scss";
+@import "blocks/main-footer/main-footer.scss";
+@import "blocks/main-navigation/main-navigation.scss";
+@import "blocks/page-header/page-header.scss";
+@import "blocks/promo-things/promo-things.scss";
+@import "blocks/social-list/social-list.scss";
+@import "blocks/visually-hidden/visually-hidden.scss";
+@import "blocks/zigzag-separate-line/zigzag-separate-line.scss";
