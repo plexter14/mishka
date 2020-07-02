@@ -1,0 +1,24 @@
+.promo-things__title {
+  margin: 0;
+  padding-top: 75px;
+  padding-right: 38px;
+  padding-bottom: 120px;
+  padding-left: 38px;
+
+  background-image: url("../img/hero-mobile.jpg");
+  background-size: 575px 373px;
+  background-position: 50% 20%;
+  text-align: center;
+}
+
+.promo-things__item {
+  margin: 0;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 30px;
+
+  color: white;
+  font-weight: bold;
+  line-height: 24px;
+  background-color: $primary-color;
+}
